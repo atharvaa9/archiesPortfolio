@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import Image from "next/image"
 import { Button } from "@/components/ui/button"
 import { Moon, Sun, Menu, X } from "lucide-react"
 import { useTheme } from "next-themes"
@@ -37,7 +38,10 @@ export default function Header() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           <div className="flex-shrink-0">
-            <h1 className="text-xl font-bold text-foreground">Archies Patil</h1>
+            <a href="#" className="flex items-center space-x-2">
+              <Image src="/archiesLogo.png" alt="Archies Patil Logo" width={40} height={40} className="rounded-full" />
+              <span className="font-bold text-foreground">Archies Patil</span>
+            </a>
           </div>
 
           {/* Desktop Navigation */}

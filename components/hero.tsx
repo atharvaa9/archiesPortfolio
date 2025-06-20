@@ -27,7 +27,7 @@ export default function Hero() {
             className="mb-8"
           >
             <Image
-              src="/placeholder.svg?height=150&width=150"
+              src="/archies.JPG"
               alt="Archies Patil - Project Manager"
               width={150}
               height={150}
@@ -70,10 +70,10 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.8 }}
             className="flex flex-col sm:flex-row gap-4 justify-center"
           >
-            <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
+            {/* <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
               <Download className="mr-2 h-4 w-4" />
               Download Résumé
-            </Button>
+            </Button> */}
             <Button size="lg" variant="outline" onClick={scrollToContact}>
               <MessageCircle className="mr-2 h-4 w-4" />
               {"Let's Talk"}

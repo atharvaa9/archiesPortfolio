@@ -22,12 +22,12 @@ export default function Footer() {
             </p>
             <div className="flex space-x-4">
               <a
-                href="mailto:archies.patil@example.com"
+                href="mailto:archies.patil13@gmail.com"
                 className="text-muted-foreground hover:text-blue-600 transition-colors"
               >
                 <Mail className="w-5 h-5" />
               </a>
-              <a href="tel:+15551234567" className="text-muted-foreground hover:text-blue-600 transition-colors">
+              <a href="tel:+15513479750" className="text-muted-foreground hover:text-blue-600 transition-colors">
                 <Phone className="w-5 h-5" />
               </a>
               <a
@@ -68,7 +68,7 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-semibold text-foreground mb-4">Contact Info</h4>
             <div className="space-y-2 text-muted-foreground">
-              <p>Hoboken, NJ</p>
+              <p>USA</p>
               <p>archies.patil13@gmail.com</p>
               <p>+1 (551) 347-9750</p>
             </div>

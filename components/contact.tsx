@@ -30,8 +30,17 @@ export default function Contact() {
     setIsSubmitting(true)
 
     try {
-      // Simulate form submission
-      await new Promise((resolve) => setTimeout(resolve, 1000))
+      const response = await fetch('/api/send', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data),
+      });
+
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
 
       toast({
         title: "Message sent successfully!",
@@ -81,21 +90,21 @@ export default function Contact() {
               <div className="space-y-4">
                 <div className="flex items-center space-x-3">
                   <Mail className="w-5 h-5 text-blue-600" />
-                  <span className="text-muted-foreground">archies.patil@example.com</span>
+                  <span className="text-muted-foreground">archies.patil13@gmail.com</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Phone className="w-5 h-5 text-blue-600" />
-                  <span className="text-muted-foreground">+1 (555) 123-4567</span>
+                  <span className="text-muted-foreground">+1 (551) 347-9750</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Linkedin className="w-5 h-5 text-blue-600" />
                   <a
-                    href="https://linkedin.com/in/archiespatil"
+                    href="https://www.linkedin.com/in/archies13"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-blue-600 transition-colors"
                   >
-                    linkedin.com/in/archiespatil
+                    linkedin.com/in/archies13
                   </a>
                 </div>
               </div>
