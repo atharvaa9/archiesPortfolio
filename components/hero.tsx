@@ -59,9 +59,7 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto"
           >
-            Seasoned Project Manager with 8+ years of experience in operations, strategic planning, and team leadership.
-            Specialized in driving complex projects from conception to successful delivery while optimizing processes
-            and maximizing ROI.
+            Seasoned project manager with 8+ years driving results in project, product, and operations management across diverse industries. From startups to large enterprises, I’ve managed portfolios over $10M with a focus on innovation, accountability, and measurable results. Specialized in leading cross-functional teams and executing complex projects with precision and impact.
           </motion.p>
 
           <motion.div
