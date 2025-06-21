@@ -30,7 +30,7 @@ export default function AboutMe() {
               <div className="prose prose-lg max-w-none text-muted-foreground">
                 <p className="mb-6">
                   
-                  I am a results-driven <span className="font-semibold text-gray-800">Project Management</span> professional with over <span className="font-semibold text-gray-800">8 years</span> of experience in <span className="font-semibold text-gray-800">project management</span>, <span className="font-semibold text-gray-800">operations management</span>, <span className="font-semibold text-gray-800">product management</span>, and strategy within fast-paced, high-impact environments. 
+                  I am a results-driven Project Management professional with over <span className="font-semibold text-gray-800">8 years</span> of experience in <span className="font-semibold text-gray-800">project management</span>, <span className="font-semibold text-gray-800">operations management</span>, <span className="font-semibold text-gray-800">product management</span>, and strategy within fast-paced, high-impact environments. 
 
                 </p>
                 <p className="mb-6">
