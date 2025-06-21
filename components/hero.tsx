@@ -45,15 +45,6 @@ export default function Hero() {
           </motion.h1>
 
           <motion.p
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.4 }}
-            className="text-xl sm:text-2xl text-blue-600 dark:text-blue-400 mb-6 font-medium"
-          >
-            Driving projects from idea to impact.
-          </motion.p>
-
-          <motion.p
             
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
