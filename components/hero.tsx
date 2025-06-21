@@ -54,23 +54,18 @@ export default function Hero() {
           </motion.p>
 
           <motion.p
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.6 }}
-           className="text-lg text-muted-foreground mb-4 max-w-2xl mx-auto"
-          >
-          Seasoned project manager with 8+ years driving results in project, product, and operations management across diverse industries. From startups to large enterprises, I’ve managed portfolios over $10M with a focus on innovation, accountability, and measurable results. Specialized in leading cross-functional teams and executing complex projects with precision and impact.
-          </motion.p>
-
-          <motion.p
+            
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.7 }}
-          className="text-lg font-semibold text-gray-800 dark:text-gray-200 mb-8 max-w-2xl mx-auto"
+          transition={{ duration: 0.8, delay: 0.6 }}
+          className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto"
           >
-          Project Management | Product Management | Operations Management | People Management | Customer Relationship Management
-          </motion.p>
+            
+          Seasoned project manager with 8+ years driving results in project, product, and operations management across diverse industries. From startups to large enterprises, I’ve managed portfolios over $10M with a focus on innovation, accountability, and measurable results. Specialized in leading cross-functional teams and executing complex projects with precision and impact.
 
+          Project Management | Product Management | Operations Management | People Management |  Customer Relationship Management
+            
+          </motion.p>
           
           <motion.div
             initial={{ opacity: 0, y: 20 }}
