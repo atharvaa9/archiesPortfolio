@@ -30,22 +30,22 @@ export default function AboutMe() {
               <div className="prose prose-lg max-w-none text-muted-foreground">
                 <p className="mb-6">
                   
-                  I am a results-driven Project Management professional with over 8 years of experience in project management, operations management, product management, and strategy within fast-paced, high-impact environments. 
+                  I am a results-driven <span className="font-semibold text-gray-800">Project Management</span> professional with over <span className="font-semibold text-gray-800">8 years</span> of experience in <span className="font-semibold text-gray-800">project management</span>, <span className="font-semibold text-gray-800">operations management</span>, <span className="font-semibold text-gray-800">product management</span>, and strategy within fast-paced, high-impact environments. 
 
                 </p>
                 <p className="mb-6">
                   
-                  I recently completed my Master’s in Engineering Management from Stevens Institute of Technology with a 3.97 GPA, where I served as the President of the Graduate Student Council and a Board Member of the Master’s Student Advisory Council, roles that strengthened my leadership, collaboration, and stakeholder engagement capabilities.
+                  I recently completed my <span className="font-semibold text-gray-800">Master’s in Engineering Management</span> from Stevens Institute of Technology with a <span className="font-semibold text-gray-800">3.97 GPA</span>, where I served as the <span className="font-semibold text-gray-800">President of the Graduate Student Council</span> and a <span className="font-semibold text-gray-800">Board Member of the Master’s Student Advisory Council</span>, roles that strengthened my leadership, collaboration, and stakeholder engagement capabilities.
 
                 </p>
                 <p className="mb-6">
                   
-                  I specialize in leading cross-functional teams, managing end-to-end project lifecycles, and delivering high-value outcomes aligned with strategic business goals. My track record includes managing $ 10 M+ portfolios, achieving $200K in cost savings, and leading teams of up to 40 professionals across diverse projects. I apply Agile, Waterfall, Scrum, and SDLC methodologies to enhance operational efficiency, reduce risk, and accelerate time-to-value.
+                  My track record includes managing <span className="font-semibold text-gray-800">$ 10 M+ portfolios</span>, achieving <span className="font-semibold text-gray-800">$200K in cost savings</span>, and leading teams of up to <span className="font-semibold text-gray-800">40</span> professionals across diverse projects. I apply Agile, Waterfall, Scrum, and SDLC methodologies to enhance operational efficiency, reduce risk, and accelerate time-to-value.
 
                 </p>
                 <p className="mb-6">
                   
-                  Certified in Google Project Management and Lean Six Sigma Green Belt, and currently pursuing the Project Management Professional (PMP) certification, I bring a structured, data-driven, and analytical mindset to every initiative. I am proficient in various tools, including Microsoft Project, Jira, Confluence, Excel, Power BI, Tableau, MySQL, and PostgreSQL, which enable me to bridge the gap between business strategy and technical execution.
+                  Certified in <span className="font-semibold text-gray-800">Google Project Management</span> and <span className="font-semibold text-gray-800">Lean Six Sigma Green Belt</span>, and currently pursuing the <span className="font-semibold text-gray-800">Project Management Professional (PMP)</span> certification, I bring a structured, data-driven, and analytical mindset to every initiative. I am proficient in various tools, including Microsoft Project, Jira, Confluence, Excel, Power BI, Tableau, MySQL, and PostgreSQL, which enable me to bridge the gap between business strategy and technical execution.
 
                 </p>
                 <p>
