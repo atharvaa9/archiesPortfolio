@@ -27,6 +27,18 @@ const experiences = [
     featured: true,
   },
   {
+    title: "Teaching Assistant",
+    company: "Stevens Institute of Technology",
+    location: "Hoboken, NJ",
+    period: "Sept 2023 – Dec 2023",
+    highlights: [
+      "Collaborated with the Business School Director to design course materials and develop syllabi, enhancing educational content and structure.",
+      "Instructed and mentored 300 undergraduate students in Excel, Advanced Excel, and Tableau, applying adaptive teaching methods to optimize learning outcomes.",
+      "Engaged in weekly meetings to provide personalized mentorship and feedback, achieving a 35% increase in student engagement.",
+    ],
+    featured: true,
+  },
+  {
     title: "Consultant (Project Planning & Strategy)",
     company: "Oreo One Digital",
     location: "Mumbai, India",
