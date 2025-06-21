@@ -8,14 +8,20 @@ import { ChevronDown, ChevronUp, Calendar, MapPin } from "lucide-react"
 
 const experiences = [
   {
-    title: "Project Operations Assistant",
+    title: "Assistant Project Manager",
     company: "Stevens Institute of Technology",
     location: "Hoboken, NJ",
     period: "Jan 2024 – May 2025",
     highlights: [
-      "Managed $30M portfolio of research and infrastructure projects",
-      "Achieved $0.2M in cost savings through process optimization",
-      "Implemented Agile methodologies and Jira for project tracking",
+      "Led project operations in Hybrid and Agile environments, from project initiation, planning, and execution, resulting in improved operational efficiency and on-time project delivery for a $30M portfolio.",
+      "Managed project lifecycle for capital projects using JIRA valued at over $2M, ensuring scope, budget, and schedule adherence.",
+      "Reconciled a $1M budget, monitoring expenditures & forecasting revenue to optimize resource allocation of the capital projects.",
+      "Developed a 3-year capital maintenance plan with senior leadership, integrating risk management and sustainability.",
+      "Recognized for negotiating and executing 20+ contracts with general contractors, leading to $0.2M in annual cost savings.",
+      "Spearheaded the daily work order management system, expertly handling 30+ service requests by streamlining workflows and preventative maintenance, reducing complaints by 15%.",
+      "Act as an on-call supervisor for campus emergencies, effectively coordinating with facilities, administration, and police departments.",
+      "Perform weekly building inspections to identify and recommend necessary preventative maintenance measures.",
+      "Oversee access control audits and enforce campus safety protocols, achieving 95% accuracy in inventory management records using Sortly.",
       "Coordinated cross-functional teams across multiple departments",
     ],
     featured: true,
