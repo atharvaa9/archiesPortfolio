@@ -40,7 +40,7 @@ export default function AboutMe() {
                 </p>
                 <p className="mb-6">
                   
-                  My track record includes managing <span className="font-semibold text-gray-800">$15M+ portfolios</span>, achieving <span className="font-semibold text-gray-800">more than $0.5M in cost savings</span>, and leading teams of up to <span className="font-semibold text-gray-800">40</span> professionals across diverse projects. I apply Agile, Waterfall, Scrum, and SDLC methodologies to enhance operational efficiency, reduce risk, and accelerate time-to-value.
+                  My track record includes managing <span className="font-semibold text-gray-800">$15M+ portfolios</span>, achieving more than <span className="font-semibold text-gray-800">$0.5M in cost savings</span>, and leading teams of up to <span className="font-semibold text-gray-800">40</span> professionals across diverse projects. I apply Agile, Waterfall, Scrum, and SDLC methodologies to enhance operational efficiency, reduce risk, and accelerate time-to-value.
 
                 </p>
                 <p className="mb-6">
