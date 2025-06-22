@@ -10,7 +10,7 @@ const experiences = [
   {
     title: "Assistant Project Manager",
     company: "Stevens Institute of Technology",
-    location: "Hoboken, NJ",
+    location: "Hoboken, NJ, USA",
     period: "Jan 2024 – May 2025",
     highlights: [
       "Led project operations in Hybrid and Agile environments, from project initiation, planning, and execution, resulting in improved operational efficiency and on-time project delivery for a $30M portfolio.",
