@@ -68,7 +68,7 @@ const experiences = [
   },
   {
     title: "Logistics Operations Executive",
-    company: "Delhivery Ltd",
+    company: "Logictrics Services Pvt. Ltd.",
     location: "Mumbai, India",
     period: "Aug 2019 – May 2021",
     highlights: [
