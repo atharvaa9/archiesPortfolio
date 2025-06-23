@@ -9,8 +9,13 @@ const leadership = [
     title: "President",
     organization: "Graduate Student Council",
     period: "2024-25",
-    description:
-    "Led the Graduate Student Council, representing the needs and interests of over 3,500 graduate students across the university.",
+    highlights: [
+      "Lead the Graduate Student Council, representing the needs and interests of over 3,500 graduate students across the university.",
+      "Guide and monitor 22 graduate student clubs and organizations, ensuring alignment with university goals and supporting club growth and engagement initiatives.",
+      "Collaborate with council members, university administrators, and department heads to create a supportive, inclusive campus environment that prioritizes student well-being.",
+      "Initiate programs and events to enhance campus life, promote academic and social inclusion, and foster a 'home away from home' atmosphere for the graduate student body.",
+      "Work closely with the Director of Graduate Student Life, Dean, faculty, and board representatives to advocate for graduate student resources and influence policy and program development.",
+    ],
     icon: Users,
   },
   {
@@ -29,6 +34,7 @@ const leadership = [
     icon: BookOpen,
   },
 ]
+
 
 export default function Leadership() {
   return (
