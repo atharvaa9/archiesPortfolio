@@ -6,7 +6,7 @@ import { GraduationCap, Award, Calendar } from "lucide-react"
 
 const education = [
   {
-    degree: "M.Eng. Management",
+    degree: "M.E. Engineering Management",
     school: "Stevens Institute of Technology",
     location: "Hoboken, NJ",
     period: "2023 - May 2025",
