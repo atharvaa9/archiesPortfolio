@@ -86,7 +86,7 @@ const experiences = [
     title: "Assistant Manager - Operations",
     company: "Sunshine Colour",
     location: "Mumbai, India",
-    period: "Jul 2016 – Jul 2019",
+    period: "Feb 2018 – Jul 2019",
     highlights: [
       "Collaborated with site supervisors and utilized inventory management tools such as Tally ERP and Excel to oversee materials across 15+ projects, achieving 90% stock accuracy and reducing material shortages by 20%.",
       "Streamlined procurement workflows using digital inventory logs and vendor management practices, resulting in reduced procurement lead times.",
