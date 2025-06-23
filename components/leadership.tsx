@@ -10,22 +10,22 @@ const leadership = [
     organization: "Graduate Student Council",
     period: "2024-25",
     description:
-    "Led the Graduate Student Council, representing the needs and interests of over 3,500 graduate students across the university.",
+    "As President of the Graduate Student Council at Stevens Institute of Technology (2024–25), led advocacy, programming, and strategic collaboration to support 3,500+ graduate students, oversee 22 clubs, and foster an inclusive, student-centered campus environment.",
     icon: Users,
   },
   {
     title: "Board Member",
     organization: "MSAC (Master's Student Advisory Council)",
-    period: "2024",
+    period: "2024-25",
     description: 
-    "Represent the Department of Systems and Enterprises in the SES Master’s Student Advisory Council, advocating for SE student interests.",
+    "Advocated for Systems and Enterprises students on the SES Master’s Student Advisory Council by collaborating with faculty, leadership, and peers to drive strategic initiatives enhancing academic quality, inclusion, and professional development.",
     icon: Award,
   },
   {
-    title: "Board Member",
-    organization: "Stevens Institute of Technology",
-    period: "2023-24",
-    description: "Supporting faculty in course delivery and mentoring students in project management methodologies.",
+    title: "Working Group Member",
+    organization: "Middle States (MSCHE) institutional accreditation",
+    period: "Present",
+    description: "Collaborating with student leaders, the Provost, and senior university leadership on the Leadership & Governance Working Group as part of a multi-year, university-wide effort to demonstrate Stevens’ commitment to Middle States accreditation standards through shared governance, transparency, and continuous improvement.",
     icon: BookOpen,
   },
 ]
