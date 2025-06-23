@@ -23,9 +23,9 @@ const leadership = [
   },
   {
     title: "Working Group Member",
-    organization: "Middle States (MSCHE) institutional reaccreditation Stevens Institute of Technology",
+    organization: "Middle States (MSCHE) institutional reaccreditation",
     period: "Present",
-    description: "Collaborating with student leaders, the Provost, and senior university leadership on the Leadership & Governance Working Group as part of a multi-year, university-wide effort to demonstrate Stevens’ commitment to Middle States accreditation standards through shared governance, transparency, and continuous improvement.",
+    description: "Collaborating with student leaders, the Provost, and senior university leadership of the Stevens Institute of Technology on the Leadership & Governance Working Group as part of a multi-year, university-wide effort to demonstrate Stevens’ commitment to Middle States accreditation standards through shared governance, transparency, and continuous improvement.",
     icon: BookOpen,
   },
 ]
