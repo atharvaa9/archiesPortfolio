@@ -114,19 +114,19 @@ export default function Contact() {
                 <ul className="space-y-2 text-muted-foreground">
                   <li className="flex items-start">
                     <span className="w-1.5 h-1.5 bg-blue-600 rounded-full mt-2 mr-3 flex-shrink-0"></span>
-                    8+ years of proven project management experience
+                    8+ years of proven project management experience.
                   </li>
                   <li className="flex items-start">
                     <span className="w-1.5 h-1.5 bg-blue-600 rounded-full mt-2 mr-3 flex-shrink-0"></span>
-                    Track record of managing $15M+ portfolios
+                    Track record of managing $15M+ portfolios.
                   </li>
                   <li className="flex items-start">
                     <span className="w-1.5 h-1.5 bg-blue-600 rounded-full mt-2 mr-3 flex-shrink-0"></span>
-                    Expertise in PM methodologies, process & people management
+                    Expertise in PM methodologies, process & people management.
                   </li>
                   <li className="flex items-start">
                     <span className="w-1.5 h-1.5 bg-blue-600 rounded-full mt-2 mr-3 flex-shrink-0"></span>
-                    Strong leadership and stakeholder management skills
+                    Strong leadership and stakeholder management skills.
                   </li>
                 </ul>
               </div>
