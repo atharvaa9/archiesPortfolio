@@ -75,7 +75,7 @@ const experiences = [
       "Developed and Implemented route optimization techniques and delivery planning tools to streamline logistics operations during the pandemic, supporting the state government in supplying emergency goods to COVID-19 treatment centers, resulting in a 10% increase in on-time deliveries, saving operational resources.",
       "Developed SOPs and process control documentation as part of the Quality Management System (QMS), improving operational efficiency and audit readiness.",
       "Conducted quality audits and implemented corrective action plans that led to decrease in non-compliance issues within supply chain processes.",
-      "UUtilized Microsoft Excel, SAP IBP, and forecasting models to analyze historical and real-time demand data, enhancing forecast accuracy and supporting inventory and shipment planning initiatives.",
+      "Utilized Microsoft Excel, SAP IBP, and forecasting models to analyze historical and real-time demand data, enhancing forecast accuracy and supporting inventory and shipment planning initiatives.",
       "Applied inventory optimization techniques using ERP systems (SAP S/4HANA) and safety stock calculators to improve material availability, reduce overstock, and minimize carrying costs and stockout risks.",
       "Enhanced KPI tracking and reporting using Power BI and Tableau dashboards, enabling real-time visibility into logistics metrics and contributing to a 7% increase in organizational profitability.",
       "Monitored logistics performance and conducted root cause analysis using Excel, SQL queries, and Tableau, supporting data-driven decision-making for continuous improvement and operational excellence.",
