@@ -13,7 +13,7 @@ const experiences = [
     location: "NJ, USA",
     period: "Jan 2024 – May 2025",
     highlights: [
-      "Led project operations in Hybrid and Agile environments, from project initiation, planning, and execution, resulting in improved operational efficiency and on-time project delivery for a $30M portfolio.",
+      "Led project operations in Hybrid and Agile environments, from project initiation, planning, and execution, resulting in improved operational efficiency and on-time project delivery for a $10M portfolio.",
       "Managed project lifecycle for capital projects using JIRA valued at over $2M, ensuring scope, budget, and schedule adherence.",
       "Reconciled a $1M budget, monitoring expenditures & forecasting revenue to optimize resource allocation of the capital projects.",
       "Developed a 3-year capital maintenance plan with senior leadership, integrating risk management and sustainability.",
